@@ -23,6 +23,7 @@ template-name: Ocean blue profile details template
 screenshot: $assets.files.assets.linktree.png
 updated-on: 23 Feb 2024
 preview-url: https://fastn-community.github.io/ocean-blue/
+domain-name: fastn-community.github.io/ocean-blue
 github-url: https://github.com/fastn-community/ocean-blue
 features: - Light and dark mode, - Responsive Design for web and mobile, - Colour styles, - High quality Images, - Multipage website
 pages: - Home page, - Content page, - Documentation detail page, - Contact page, - Terms & conditions page

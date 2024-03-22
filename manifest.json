@@ -52,8 +52,8 @@
     },
     "index.ftd": {
       "name": "index.ftd",
-      "checksum": "4CBE0A32955AC92AA8570CB51D54E3C60ABBBCD4B80564A74125D1E1F65CDCF9",
-      "size": 1101
+      "checksum": "5B8EC3D7E8E829058E80CFF2F792986D7BC16D77A98C9D01CF2BFA281768D6B9",
+      "size": 1151
     },
     "lib.ftd": {
       "name": "lib.ftd",
@@ -72,5 +72,5 @@
     }
   },
   "zip_url": "https://codeload.github.com/fastn-community/ocean-blue/zip/refs/heads/main",
-  "checksum": "A3791D40A67B113997684320323A57A8DF475626F0E56DD280D89D20E1579F0C"
+  "checksum": "6B6C7FC886080961C5CF8D91B357CA287AA6063DD7DF95AD8080FD8EA28DF384"
 }
